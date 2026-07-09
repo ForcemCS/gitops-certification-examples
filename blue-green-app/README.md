@@ -1,3 +1,4 @@
+### command
 kubectl argo rollouts list rollouts
 kubectl argo rollouts status simple-rollout
 kubectl argo rollouts get rollout simple-rollout
